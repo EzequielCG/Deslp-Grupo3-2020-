@@ -1,7 +1,7 @@
 # Deslp-Grupo3-2020-
 Integrantes del grupo:
--Ezequiel Cabanillas Gálvez
--Alejandro Herrera Pozas
+-Ezequiel Cabanillas Gálvez(EzequielCG)
+-Alejandro Herrera Pozas(xaherpoz)
 
 GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador. 
 En un mismo proyecto pueden participar una serie de usuarios con la capacidad de editar diferentes archivos de dicho proyecto al mismo tiempo, sabiendo qué usuario modificó que archivo y la/s líneas de código que este ha módificado y/o añadido. También existe la posibilidad de subir archivos al proyecto, dichos archivos, o incluso carpetas, se reconocerán de entre el resto debido a que la misma plataforma Github indica que archivos han sido subidos de manera externa y cuales han sido creados en el mismo proyecto.
